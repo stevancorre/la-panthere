@@ -8,5 +8,5 @@
 - [x] Libs loading time
 - [ ] Images loading time
 - [ ] Elements alignment in mobile view
-- [ ] Fix keywords
+- [x] Keywords
 - [ ] Replace outdated libs
