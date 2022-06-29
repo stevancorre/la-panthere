@@ -9,4 +9,4 @@
 - [x] Images loading time
 - [ ] Elements alignment in mobile view
 - [x] Keywords
-- [ ] Replace outdated libs
+- [ ] Fix font size
