@@ -6,7 +6,7 @@
 - [x] OpenGraph Tags
 - [x] Titles
 - [x] Libs loading time
-- [ ] Images loading time
+- [x] Images loading time
 - [ ] Elements alignment in mobile view
 - [x] Keywords
 - [ ] Replace outdated libs
