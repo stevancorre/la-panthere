@@ -1,2 +1,7 @@
 .idea
-zip.sh
+.vscode
+
+*.log
+
+node_modules
+dist
