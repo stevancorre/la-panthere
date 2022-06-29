@@ -1,7 +1,7 @@
 # To do list
 
 - [x] Description
-- [ ] Lang
+- [x] Lang
 - [ ] Link names
 - [ ] OpenGraph Tags
 - [x] Titles
