@@ -3,7 +3,7 @@
 - [x] Description
 - [x] Lang
 - [ ] Link names
-- [ ] OpenGraph Tags
+- [x] OpenGraph Tags
 - [x] Titles
 - [x] Libs loading time
 - [ ] Images loading time
