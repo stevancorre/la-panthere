@@ -1,6 +1,6 @@
 # To do list
 
-- [ ] Description
+- [x] Description
 - [ ] Lang
 - [ ] Link names
 - [ ] OpenGraph Tags
