@@ -9,3 +9,4 @@
 - [x] Images loading time
 - [ ] Elements alignment in mobile view
 - [x] Fix font size
+- [ ] Contrast
