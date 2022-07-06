@@ -11,3 +11,4 @@
 - [x] Elements alignment in mobile view
 - [x] Fix font size
 - [ ] Contrast
+- [x] Headings order
