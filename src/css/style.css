@@ -1040,3 +1040,7 @@ h4 {
         text-align: center;
     }
 }
+
+.img-responsive {
+    width: 100%;
+}
