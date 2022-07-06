@@ -5,7 +5,9 @@
 - [x] Link names
 - [x] OpenGraph Tags
 - [x] Titles
-- [x] Libs loading time
+- [x] Minify libs
+- [ ] Remove unused code in libs
+- [ ] Compress libs
 - [x] Images loading time
 - [ ] Elements alignment in mobile view
 - [x] Fix font size
