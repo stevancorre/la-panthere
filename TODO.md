@@ -6,7 +6,7 @@
 - [x] OpenGraph Tags
 - [x] Titles
 - [x] Minify libs
-- [ ] Remove unused code in libs
+- [x] Remove unused code in libs
 - [ ] Compress libs
 - [x] Images loading time
 - [ ] Elements alignment in mobile view

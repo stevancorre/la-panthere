@@ -21,11 +21,13 @@ module.exports = function (grunt) {
                 dest: "dist/style.min.css"
             }
         },
-        //! unused
         uncss: {
             dist: {
                 files: {
                     "dist/style.min.css": ["dist/*.html"]
+                },
+                options: {
+                    ignore: [".collapsing", ".collapse.in"]
                 }
             }
         }
@@ -37,5 +39,5 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks("grunt-uncss");
 
-    grunt.registerTask("default", ["clean", "copy", "uglify", "cssmin"]);
+    grunt.registerTask("default", ["clean", "copy", "uglify", "cssmin", "uncss"]);
 };
