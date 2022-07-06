@@ -10,5 +10,5 @@
 - [x] Images loading time
 - [x] Elements alignment in mobile view
 - [x] Fix font size
-- [ ] Contrast
+- [x] Contrast
 - [x] Headings order
