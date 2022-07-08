@@ -447,6 +447,7 @@ nav .caret {
 
 .btn {
     margin: 0 5px 5px 0;
+    color: #222222 !important;
 }
 
 .btn.pull-right {
@@ -780,12 +781,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #333333!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .ltc-white {
