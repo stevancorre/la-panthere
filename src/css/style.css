@@ -67,6 +67,10 @@ a:hover {
 
 .bloc-quote q {
     font-style: italic;
+    color: #000000f0;
+}
+
+.bloc-quote figcaption {
     color: #000000b0;
 }
 
@@ -112,8 +116,29 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.webp");
+    /* removed for contrast & reading issues 
+    background: url("img/texture-paper.webp"); */
     background-size: 280px 280px;
+}
+
+.backdrop-darker-blur::before{
+    backdrop-filter: brightness(0.7) blur(6px);
+}
+
+.backdrop-darker::before{
+    backdrop-filter: brightness(0.45);
+}
+
+.t-shadow {
+    text-shadow: 1px 1px 2px #c27956;
+}
+
+.tc-black {
+    color: #150A09 !important;
+}
+
+.fw-600 {
+    font-weight: 600;
 }
 
 .b-parallax {
@@ -689,6 +714,7 @@ a {
 
 .hero-bloc-text {
     font-size: 38px;
+    font-weight: 500;
 }
 
 .hero-bloc-text-sub {
@@ -800,11 +826,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #f3976c;
 }
 
 .tc-white {
-    color: #F3976C !important;
+    color: #FC9B63 !important;
 }
 
 .btn-atomic-tangerine {
